@@ -28,7 +28,7 @@ Bot do Telegram desenvolvido em Python para automatizar o agendamento de cliente
 ### 1. Clone o repositório
 
 \```bash
-git clone https://github.com/gio1411/barberbot.git
+git clone https://github.com/giovanecabral/barberbot.git
 cd barberbot
 \```
 
@@ -70,7 +70,7 @@ python bot.py
 ## Autor
 
 Desenvolvido por **Giovane Cabral**
-• [GitHub](https://github.com/gio1411)
+• [GitHub](https://github.com/giovanecabral)
 
 ---
 
